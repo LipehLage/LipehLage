@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=66FF66&background=000000&width=435&lines=LipehLage" alt="LipehLage em 8-bit">
-  <br>
-  <sub> DevOps | Java, Python, Spring, Django, Vue.js</sub>
-</p>
+
 
 ### 💼 Sobre Mim
 <p>
