@@ -1,8 +1,6 @@
-
-
 ### 💼 Sobre Mim
 <p>
-  Sou um desenvolvedor com experiência em construir aplicações robustas e eficientes, desde o back-end com Java e  Spring até o front-end dinâmico com Vue.js. Tenho paixão por práticas de DevOps e busco sempre aprimorar meus conhecimentos em automação e entrega contínua.
+  Sou um desenvolvedor com experiência em construir aplicações robustas e eficientes, desde o back-end com Java e Spring até o front-end dinâmico com Vue.js. Tenho paixão por práticas de DevOps e busco sempre aprimorar meus conhecimentos em automação e entrega contínua.
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -16,11 +14,22 @@
 <p>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/SEU-INSTAGRAM/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="SEU-PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfólio"></a>
 </p>
 
+---
+
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LipehLage&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=66FF66&icon_color=66FF66&text_color=FFFFFF" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipehLage&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=66FF66&text_color=FFFFFF" alt="Linguagens Mais Usadas">
+
+### 📊 Estatísticas do GitHub
+
+<br>
+
+<img src="https://img.shields.io/github/stars/LipehLage?style=for-the-badge&color=66FF66&labelColor=0d1117&logo=github&logoColor=FFFFFF" alt="Stars">
+<img src="https://img.shields.io/github/followers/LipehLage?style=for-the-badge&color=66FF66&labelColor=0d1117&logo=github&logoColor=FFFFFF" alt="Followers">
+
+<br><br>
+
+
+<br>
+
 </div>
